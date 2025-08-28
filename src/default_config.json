@@ -1,0 +1,12 @@
+{
+    "bookmarks": {
+        "home": "~",
+        "desktop": "~/Desktop",
+        "documents": "~/Documents",
+        "downloads": "~/Downloads",
+        "music": "~/Music",
+        "pictures": "~/Pictures",
+        "videos": "~/Videos",
+        "trash": "~/.local/share/Trash",
+    }
+}

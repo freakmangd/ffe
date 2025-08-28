@@ -1,0 +1,16 @@
+.{
+    .name = "ffe",
+    .version = "0.0.0",
+    .dependencies = .{
+        .raylib = .{ .path = "../raylib_helper" },
+        .known_folders = .{
+            .url = "https://github.com/ziglibs/known-folders/archive/47076c6b11214a218e9244471d8762310820911a.zip",
+            .hash = "12209d2738a2e1dbd3781c2e5f01a2ea877dcfeea53efdfa1913247297d328e6b207",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}

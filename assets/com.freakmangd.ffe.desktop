@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=ffe
+Type=Application
+Comment=Fast file explorer!
+Exec=ffe
+Icon=com.freakmangd.ffe
+Categories=System;
+Keywords=files;explorer;
+StartupNotify=true
+Terminal=false
+Actions=new-window;
+X-GNOME-UsesNotifications=true
+
+[Desktop Action new-window]
+Name=New Window
+Exec=ffe
