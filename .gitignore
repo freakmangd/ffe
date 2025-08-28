@@ -1,7 +1,4 @@
 .zig-cache
 zig-out
-*.png
-*.jpg
-*.jpeg
-*.gif
+nosync
 *.xcf
